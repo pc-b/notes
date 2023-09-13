@@ -2,7 +2,7 @@
 id: fcxw0drm5n0stikng0iqcwy
 title: Ethical Relativism
 desc: ''
-updated: 1694612583177
+updated: 1694620815444
 created: 1694608000837
 ---
 ### "Wanton cruelty such that is involved in the torture of children, is wrong"
@@ -53,13 +53,19 @@ created: 1694608000837
 
 -   A descriptive claim to the effect that there are numerous cultures in the world, each of which has a distinct moral code; an "is" statement about how the world actually is
 
+-    There is large diversity of moral practices and beliefs in the world. 
+
 ## Premise 2: Dependency thesis
 
 -   A culture's moral code merges out of the particular values and social arrangement of that culture itself
 
+-   Judgments about right and wrong are dependent on, or arise from, the particular cultural milieu in which they are generally expressed and acted on.
+
 ## Premise 3: No transcultural codes
 
 -    There are no moral principles binding on all persons, regardless of the culture they inhabit. This is because no single code transcends and particular culture
+
+-   There are no moral standards that transcend all cultures and that can be used to assess the moral practices and beliefs of any particular culture. 
 
 -    Binding: "you ought not to", the moral claim applies to you whether you like it or not
 
@@ -91,7 +97,7 @@ created: 1694608000837
 
 -   We eat a lot of meat
 
--   [Doing so is morally objectionable]{.underline}
+-   <u>Doing so is morally objectionable</u>
 
 -   Therefore we should eat less meat, or none at all
 

@@ -1,8 +1,8 @@
 ---
 id: d7d3sicgwjatqx4ma8noypc
-title: Relationalmodels
+title: Relational Models
 desc: ''
-updated: 1694611696130
+updated: 1694614025965
 created: 1694611557234
 ---
 # Data Models:
