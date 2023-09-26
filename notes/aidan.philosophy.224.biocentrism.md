@@ -2,14 +2,15 @@
 id: ep5dhjl7ar1kzqih7nusse1
 title: Biocentrism
 desc: ''
-updated: 1695732546561
+updated: 1695735224708
 created: 1695731315645
 ---
+
 1.  Rights for living things
 2.  What is life
 3.  Biocentric egalitarianism
 
-## 1.  Rights for living things
+## <center>1.  Rights for living things
 ### What is a 'holder of legal rights'?
 >
 - The thing can institute legal action at its behest **(voice)**
@@ -25,4 +26,41 @@ created: 1695731315645
 
 ### Non-psychocentrism
 > Biocentrism claims that entities **lacking psychological states** can still have interests
+
+---
+
+## <center> <c2. What is life?
+### Moderns vs. pre-moderns
+>
+-   **Modern view**: things canot go well or badly for anything but humans
+-   **Pre-modern view**: everything in nature can be undertood teleologically (as goal directed). Therefore things can go well or badly for such things
+
+### Entropy at work
+>
+-   Hot coffee at time 
+-   Hot coffee at time 2
+-   Life is about establishing events at order? idk i got distracted
+
+### What living things do
+>
+-   Incorporate outside energy
+-   Use it to build biomass (grow0 and maintain subsystems that help the organism resist external threats)
+
+### Example: immune system
+>
+-   Helps the body resist pathogens, tumors etc,  which would otherwise break the body down.
+    -   **Key**: every living thing has something like this while no non-living thing has anything like it
+
+## Conclusion
+>
+-   Things can go well or badly for a living body
+-   So Aristotle is correct, the modern view incorrect
+
+---
+
+### Holders of legal rights (again)
+>
+-   Living things can be injured in a non-derivative sense **(injury)**
+-   So we can specify the way to bnefit them **(compensation)**
+-   And, they can 'tell us' when they are injured so that we can defend their interests **(voice)**
 
