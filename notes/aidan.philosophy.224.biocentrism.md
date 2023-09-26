@@ -2,13 +2,13 @@
 id: ep5dhjl7ar1kzqih7nusse1
 title: Biocentrism
 desc: ''
-updated: 1695758046888
+updated: 1695758128376
 created: 1695731315645
 ---
 
-1.  Rights for living things
-2.  What is life
-3.  Biocentric egalitarianism
+1.  [Rights for living things](#1-rights-for-living-things)
+2.  [What is life](#2-what-is-life)
+3.  [Biocentric egalitarianism](#3-biocentric-egalitarianism)
 
 ## <center>1.  Rights for living things
 ### What is a 'holder of legal rights'?

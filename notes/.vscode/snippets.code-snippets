@@ -1,0 +1,28 @@
+{
+	"makes a blank mermaid": {
+		"prefix": "merm",
+		"body": [
+		  "```mermaid",
+		  "graph TD;",
+		  "    ",
+		  "```"
+		],
+		"description": "makes a blank mermaid"
+	  }
+	
+	"makes a blank test ur knolesge": {
+	"prefix": "tuk",
+	"body": [
+		"<details>",
+		"    <summary>",
+		"        ",
+		"    </summary>",
+		"    <p>",
+		"</details>",
+		"<br>",
+		""
+	],
+	"description": "makes a blank test ur knolesge"
+	}
+
+}
