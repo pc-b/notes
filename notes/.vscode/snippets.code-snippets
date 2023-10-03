@@ -24,5 +24,12 @@
 	],
 	"description": "makes a blank test ur knolesge"
 	}
-
+	
+	"make ex": {
+		"prefix": "ex",
+		"body": [
+		  "### **Example**:"
+		],
+		"description": "make ex"
+	  }
 }

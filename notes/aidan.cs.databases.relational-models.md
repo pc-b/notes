@@ -2,7 +2,7 @@
 id: d7d3sicgwjatqx4ma8noypc
 title: Relational Models
 desc: ''
-updated: 1694614025965
+updated: 1696339440068
 created: 1694611557234
 ---
 # Data Models:

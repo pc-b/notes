@@ -2,7 +2,7 @@
 id: ifuz7m7c58gxx46xn6hij2l
 title: Four mortal theories
 desc: ''
-updated: 1694699249340
+updated: 1696345681335
 created: 1694696277000
 ---
 1.  Four preliminary points
@@ -56,7 +56,7 @@ Ethical theory that uses rules to distinguish right from wrong
 -   Immanuel Kant (1724-1804)
 
 ### The categorical imperative (I)
-> Act only according to those rules that anybody in similar circumstancrs could act by. Don't make an exception of yourself
+> Act only according to those rules that anybody in similar circumstances could act by. Don't make an exception of yourself
 
 -   His example was lying, thought that one should not lie under any circumstance
 -   Lying is problematic because if everyone acted that way, the entire truth system would collapse
